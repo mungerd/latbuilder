@@ -1,3 +1,11 @@
+# Lattice Builder has moved
+
+**IMPORTANT!**
+
+The [official Lattice Builder repository](https://github.com/umontreal-simul/latbuilder)
+is now maintained by [umontreal-simul](https://github.com/umontreal-simul/).
+
+
 # Lattice Builder
 _A general software tool for constructing rank-1 lattice rules_
 
